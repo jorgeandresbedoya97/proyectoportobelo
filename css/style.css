@@ -35,8 +35,8 @@ body{
     
 }
 
-.nav-link.active:hover{
-    color: #53adee !important;
+.nav-link .active:hover{
+    color: #d8e51b !important;
 }
 
 /* novedades */
